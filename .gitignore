@@ -1,0 +1,6 @@
+/keylogger/dist/
+/keyloggerToLogstash/target/
+/GUI/build/
+/GUI/nbproject/private/
+/testlog_mavenproject1/target/
+/KeyLogger/target/
